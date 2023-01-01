@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rounit R Sinha
 - 👀 I’m interested in Frontend Development 
 - 🌱 I’m currently learning ReactJS and exploring JavaScript
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate in open source projects
 - 📫 Drop a mail at rounitrsinha@gmail.com to collaborate
 
 <!---
