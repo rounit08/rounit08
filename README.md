@@ -77,4 +77,5 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :writing_hand: Blog Posts :
 
 - <a href="https://medium.com/@rounitrsinha/capturing-the-bubble-of-event-propagation-in-javascript-3c074f352648">
+  <p>Event Propagation in JS</p>
 Event Propagation in JS</a>
