@@ -23,8 +23,15 @@ You can click the Preview link to take a look at your changes.
   <a href="https://twitter.com/therounitsinha">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <a href="https://dev.to/rounit08">
+  <img src="https://img.shields.io/badge/dev.to-Rounit%20Sinha-blue" alt="Dev Community Badge" />
+  </a>
+  
+  <a href="https://medium.com/@rounitrsinha">
+  <img src="https://img.shields.io/badge/Medium-Rounit%20Sinha-blueviolet" alt="Medium Badge" />
+  </a>
+  
 </div>
-<img src="https://komarev.com/ghpvc/?username=rounit08&style=flat-square&color=blue" alt=""/>
 
 
 <h1>
