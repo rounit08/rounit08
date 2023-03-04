@@ -1,7 +1,4 @@
-- 👀 I’m interested in Frontend Development 
-- 🌱 I’m currently learning ReactJS and exploring JavaScript
-- 💞️ I’m looking to collaborate in open source projects
-- 📫 Drop a mail at rounitrsinha@gmail.com to collaborate
+
 
 <!---
 rounit08/rounit08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -45,12 +42,13 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :telescope: I’m learning and contributing to frontend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Learning TypeScript, TailwindCSS, Solid.js & Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on Leetcode, I write poetry and also I make sketches.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounit08/)
--  you can mail @ rounitrsinha@gmail.com for collabs
+
+- 📫 Drop a mail at rounitrsinha@gmail.com to collaborate
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -77,5 +75,12 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 ### :writing_hand: Blog Posts :
 
 - <a href="https://medium.com/@rounitrsinha/capturing-the-bubble-of-event-propagation-in-javascript-3c074f352648">
-  <p>Event Propagation in JS</p>
-Event Propagation in JS</a>
+  <p>Event Propagation in JS</p></a>
+  
+- <a href="https://dev.to/rounit08/pointer-events-in-js-1ihd">
+  <p>Pointer Events in JS</p></a>
+  
+- <a href="https://medium.com/@rounitrsinha/instagram-and-their-superb-user-retention-technique-afe2583a418a">
+  <p>Instagram's User Retention Technique</p></a>
+  
+  ## THANKS :bye:
