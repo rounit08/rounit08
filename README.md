@@ -83,4 +83,4 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - <a href="https://medium.com/@rounitrsinha/instagram-and-their-superb-user-retention-technique-afe2583a418a">
   <p>Instagram's User Retention Technique</p></a>
   
-  ## THANKS :bye:
+  #### THANKS
