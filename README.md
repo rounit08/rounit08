@@ -46,7 +46,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :zap: In my free time, I solve problems on Leetcode, I write poetry and also I make sketches.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounit08/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rounit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounit08/)
 
 - 📫 Drop a mail at rounitrsinha@gmail.com to collaborate
 
