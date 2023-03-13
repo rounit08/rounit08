@@ -82,5 +82,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
 - <a href="https://medium.com/@rounitrsinha/instagram-and-their-superb-user-retention-technique-afe2583a418a">
   <p>Instagram's User Retention Technique</p></a>
+
+- <a href="https://dev.to/rounit08/fetchapiinnerhtml-dive-deep-into-it-4p1a">
+  <p>Fetch API - deep dive</p></a>
   
   #### THANKS
