@@ -14,24 +14,6 @@ You can click the Preview link to take a look at your changes.
 - <a href="https://github.com/rounit08/qrgenreact">QR Code Generator</a>
 - <a href="https://github.com/rounit08/voici">Voice to Text Coverter</a>
 
-
-### :man_technologist: About Me :
-
-I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-
-
-- :telescope: I’m learning and contributing to frontend for building web applications.
-
-- :seedling: Learning TypeScript, TailwindCSS, Solid.js & Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on Leetcode.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rounit08-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounit08/)
-
-- 📫 Drop a mail at rounitrsinha@gmail.com to collaborate
-
-- I love CSS renderings, Check out my Css battle profile - <a href="https://cssbattle.dev/player/YJOF9LbENSWG8erlYxhtQa0HCnQ2">cssbattle.dev/rounit</a>
-
 - ### :writing_hand: Blog Posts :
 
 - <a href="https://www.linkedin.com/posts/react-jobs_reacts-arrow-of-reconciliation-by-rounit-activity-7071566191219077121-FyLU?utm_source=share&utm_medium=member_desktop">
@@ -54,6 +36,26 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - <a href="https://dev.to/rounit08/fetchapiinnerhtml-dive-deep-into-it-4p1a">
   <p>Fetch API - deep dive</p></a>
+
+
+### :man_technologist: About Me :
+
+I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+
+- :telescope: I’m learning and contributing to frontend for building web applications.
+
+- :seedling: Learning TypeScript, TailwindCSS, Solid.js & Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on Leetcode.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rounit08-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounit08/)
+
+- 📫 Drop a mail at rounitrsinha@gmail.com to collaborate
+
+- I love CSS renderings, Check out my Css battle profile - <a href="https://cssbattle.dev/player/YJOF9LbENSWG8erlYxhtQa0HCnQ2">cssbattle.dev/rounit</a>
+
+
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/rounit08/">
