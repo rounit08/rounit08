@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 - <a href="https://github.com/rounit08/qrgenreact">QR Code Generator</a>
 - <a href="https://github.com/rounit08/voici">Voice to Text Coverter</a>
 
-- ### :writing_hand: Blog Posts :
+ ### :writing_hand: Blog Posts :
 
 - <a href="https://www.linkedin.com/posts/react-jobs_reacts-arrow-of-reconciliation-by-rounit-activity-7071566191219077121-FyLU?utm_source=share&utm_medium=member_desktop">
   <p>Published article on US based React job portal </p>
