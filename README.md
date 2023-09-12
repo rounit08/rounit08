@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 - <a href="https://dev.to/rounit08/type-coercion-in-js-its-hierarchy-lg">
   <p>Type Coercion in JS</p></a>
 
-  - <a href="https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0">
+- <a href="https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0">
   <p>Rendering of GIFs in HTML</p></a>
   
 - <a href="https://medium.com/@rounitrsinha/capturing-the-bubble-of-event-propagation-in-javascript-3c074f352648">
