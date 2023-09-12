@@ -7,26 +7,6 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/rounit08/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@rounitsinha4329">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="https://twitter.com/therounitsinha">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="https://dev.to/rounit08">
-  <img src="https://img.shields.io/badge/dev.to-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community Badge" />
-  </a>
-  
-  <a href="https://medium.com/@rounitrsinha">
-  <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
-  </a>
-  
-</div>
-
 
 
 
@@ -69,6 +49,26 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - <a href="https://dev.to/rounit08/fetchapiinnerhtml-dive-deep-into-it-4p1a">
   <p>Fetch API - deep dive</p></a>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/rounit08/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@rounitsinha4329">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="https://twitter.com/therounitsinha">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://dev.to/rounit08">
+  <img src="https://img.shields.io/badge/dev.to-blue?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev Community Badge" />
+  </a>
+  
+  <a href="https://medium.com/@rounitrsinha">
+  <img src="https://img.shields.io/badge/Medium-blue?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
+  </a>
+  
+</div>
 
 
 
