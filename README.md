@@ -49,6 +49,15 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - ### :writing_hand: Blog Posts :
 
+- <a href="https://www.linkedin.com/posts/react-jobs_reacts-arrow-of-reconciliation-by-rounit-activity-7071566191219077121-FyLU?utm_source=share&utm_medium=member_desktop">
+  <p>Published article on US based React job portal </p>
+  </a> 
+- <a href="https://dev.to/rounit08/type-coercion-in-js-its-hierarchy-lg">
+  <p>Type Coercion in JS</p></a>
+
+  - <a href="https://dev.to/rounit08/why-passing-gifs-in-htmls-tag-is-acceptable-by-browsers-but-not-the-video-file-10e0">
+  <p>Rendering of GIFs in HTML</p></a>
+  
 - <a href="https://medium.com/@rounitrsinha/capturing-the-bubble-of-event-propagation-in-javascript-3c074f352648">
   <p>Event Propagation in JS</p></a>
   
@@ -61,9 +70,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 - <a href="https://dev.to/rounit08/fetchapiinnerhtml-dive-deep-into-it-4p1a">
   <p>Fetch API - deep dive</p></a>
 
-- <a href="https://www.linkedin.com/posts/react-jobs_reacts-arrow-of-reconciliation-by-rounit-activity-7071566191219077121-FyLU?utm_source=share&utm_medium=member_desktop">
-  <p>Published article on US based React job portal </p>
-  </a> 
+
 
 ### :hammer_and_wrench: Languages and Tools :
 
