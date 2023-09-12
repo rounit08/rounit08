@@ -28,10 +28,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-<h1>
-  hey buddy!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+
 
 ### :man_technologist: About Me :
 
@@ -42,7 +39,7 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - :seedling: Learning TypeScript, TailwindCSS, Solid.js & Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on Leetcode, I write poetry and also I make sketches.
+- :zap: In my free time, I solve problems on Leetcode.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-rounit08-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rounit08/)
 
@@ -62,12 +59,6 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
   
 </div>
 
-### :fire: My Stats :
-
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rounit08&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rounit08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### :writing_hand: Blog Posts :
@@ -83,5 +74,8 @@ I am a Front-End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmT
 
 - <a href="https://dev.to/rounit08/fetchapiinnerhtml-dive-deep-into-it-4p1a">
   <p>Fetch API - deep dive</p></a>
-  
+
+- <a href="https://www.linkedin.com/posts/react-jobs_reacts-arrow-of-reconciliation-by-rounit-activity-7071566191219077121-FyLU?utm_source=share&utm_medium=member_desktop">
+  <p>Published article on US based React job portal </p>
+  </a> 
   #### THANKS
