@@ -7,7 +7,12 @@ You can click the Preview link to take a look at your changes.
 
 
 
-
+###  Projects I have worked on :
+- <a href="https://github.com/rounit08/devwell">Devwell - chrome extension</a>
+- <a href="https://github.com/rounit08/frontendfighters"> Frontend Fighters Community</a>
+- <a href="https://github.com/rounit08/rounitportfolio">Portfolio - Google.com theme based</a>
+- <a href="https://github.com/rounit08/qrgenreact">QR Code Generator</a>
+- <a href="https://github.com/rounit08/voici">Voice to Text Coverter</a>
 
 
 ### :man_technologist: About Me :
