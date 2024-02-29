@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Currently working on:
--<a href="https://github.com/rounit08/tonedthreads">tonedThreads - revolution in fashionTech</a>
+- <a href="https://github.com/rounit08/tonedthreads">tonedThreads - revolution in fashionTech</a>
 
 
 ###  Projects I have worked on :
