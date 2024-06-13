@@ -6,8 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Currently working on:
-- <a href="https://github.com/rounit08/quaketrack">QuakeTrack - web based project to track earthquakes and history at a pointed place</a>
-
+- UI Library (stay tuned)
 
 ###  Projects I have worked on :
 
