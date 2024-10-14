@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Currently working on:
-- UI Library (stay tuned)
+- BelezaUI (UI Librar) (stay tuned)
 
 ###  Projects I have worked on :
 
